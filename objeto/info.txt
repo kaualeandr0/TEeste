@@ -1,0 +1,3 @@
+objeto: colher
+material: metal
+tamanho: 16cm
