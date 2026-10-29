@@ -1,0 +1,4 @@
+jogo: rdr2
+protagonista: Arthur morgan
+desenvolvedora: rocktar
+modo de jogo: historia
